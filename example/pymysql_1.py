@@ -1,24 +1,15 @@
 #! /usr/bin/python
 # -*- coding: UTF-8 -*-
-
 """
-
-    作者: 小肥巴巴
-    简书: https://www.jianshu.com/u/db796a501972
-    邮箱: imyunshi@163.com
-    github: https://github.com/xiaofeipapa/python_example
-
-    您可以任意转载, 恳请保留我作为原作者, 谢谢.
-
+普通连接查询
 """
 import pymysql
 
-
-host = 'localhost'
-port = 3306
-db = 'mysql_test'
-user = 'mysql_test'
-password = 'mysql_test'
+host = '10.25.67.80'
+port = 23306
+db = 'acc'
+user = 'root'
+password = '123456'
 
 
 # ---- 用pymysql 操作数据库
@@ -28,7 +19,6 @@ def get_connection():
 
 
 def check_it():
-
     conn = get_connection()
 
     # 使用 cursor() 方法创建一个 dict 格式的游标对象 cursor

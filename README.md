@@ -1,4 +1,4 @@
-# python操作mysql之只看这篇就够了
+# python操作mysql
 
 ## 初始化准备
 
@@ -29,12 +29,12 @@ pymysql 的代码还是很简单的, 以下代码分别为连接mysql 获得conn
 
 """
 
-    作者: 小肥巴巴
-    简书: https://www.jianshu.com/u/db796a501972
-    邮箱: imyunshi@163.com
-    github: https://github.com/xiaofeipapa/python_example
+     
+    
+    
+    
 
-    您可以任意转载, 恳请保留我作为原作者, 谢谢.
+   
 
 
 """
@@ -87,12 +87,12 @@ if __name__ == '__main__':
 
 """
 
-    作者: 小肥巴巴
-    简书: https://www.jianshu.com/u/db796a501972
-    邮箱: imyunshi@163.com
-    github: https://github.com/xiaofeipapa/python_example
+     
+    
+    
+    
 
-    您可以任意转载, 恳请保留我作为原作者, 谢谢.
+   
 
 """
 import pymysql
@@ -182,12 +182,12 @@ if __name__ == '__main__':
 
 """
 
-    作者: 小肥巴巴
-    简书: https://www.jianshu.com/u/db796a501972
-    邮箱: imyunshi@163.com
-    github: https://github.com/xiaofeipapa/python_example
+     
+    
+    
+    
 
-    您可以任意转载, 恳请保留我作为原作者, 谢谢.
+   
 
 """
 import pymysql
@@ -261,12 +261,12 @@ class UsingMysql(object):
 
 """
 
-    作者: 小肥巴巴
-    简书: https://www.jianshu.com/u/db796a501972
-    邮箱: imyunshi@163.com
-    github: https://github.com/xiaofeipapa/python_example
+     
+    
+    
+    
 
-    您可以任意转载, 恳请保留我作为原作者, 谢谢.
+   
 
 """
 from pymysql_comm import UsingMysql
@@ -293,12 +293,12 @@ if __name__ == '__main__':
 
 """
 
-    作者: 小肥巴巴
-    简书: https://www.jianshu.com/u/db796a501972
-    邮箱: imyunshi@163.com
-    github: https://github.com/xiaofeipapa/python_example
+     
+    
+    
+    
 
-    您可以任意转载, 恳请保留我作为原作者, 谢谢.
+   
 
 """
 from pymysql_comm import UsingMysql
@@ -340,12 +340,12 @@ if __name__ == '__main__':
 
 """
 
-    作者: 小肥巴巴
-    简书: https://www.jianshu.com/u/db796a501972
-    邮箱: imyunshi@163.com
-    github: https://github.com/xiaofeipapa/python_example
+     
+    
+    
+    
 
-    您可以任意转载, 恳请保留我作为原作者, 谢谢.
+   
 
 """
 from pymysql_comm import UsingMysql
@@ -400,12 +400,12 @@ if __name__ == '__main__':
 
 """
 
-    作者: 小肥巴巴
-    简书: https://www.jianshu.com/u/db796a501972
-    邮箱: imyunshi@163.com
-    github: https://github.com/xiaofeipapa/python_example
+     
+    
+    
+    
 
-    您可以任意转载, 恳请保留我作为原作者, 谢谢.
+   
 
 """
 from pymysql_comm import UsingMysql
@@ -469,12 +469,12 @@ if __name__ == '__main__':
 
 """
 
-    作者: 小肥巴巴
-    简书: https://www.jianshu.com/u/db796a501972
-    邮箱: imyunshi@163.com
-    github: https://github.com/xiaofeipapa/python_example
+     
+    
+    
+    
 
-    您可以任意转载, 恳请保留我作为原作者, 谢谢.
+   
 
 """
 from pymysql_comm import UsingMysql
@@ -536,12 +536,12 @@ if __name__ == '__main__':
 
 """
 
-    作者: 小肥巴巴
-    简书: https://www.jianshu.com/u/db796a501972
-    邮箱: imyunshi@163.com
-    github: https://github.com/xiaofeipapa/python_example
+     
+    
+    
+    
 
-    您可以任意转载, 恳请保留我作为原作者, 谢谢.
+   
 
 """
 from pymysql_comm import UsingMysql
@@ -584,12 +584,12 @@ if __name__ == '__main__':
 
 """
 
-    作者: 小肥巴巴
-    简书: https://www.jianshu.com/u/db796a501972
-    邮箱: imyunshi@163.com
-    github: https://github.com/xiaofeipapa/python_example
+     
+    
+    
+    
 
-    您可以任意转载, 恳请保留我作为原作者, 谢谢.
+   
 
 """
 from pymysql_comm import UsingMysql
@@ -638,12 +638,12 @@ if __name__ == '__main__':
 
 """
 
-    作者: 小肥巴巴
-    简书: https://www.jianshu.com/u/db796a501972
-    邮箱: imyunshi@163.com
-    github: https://github.com/xiaofeipapa/python_example
+     
+    
+    
+    
 
-    您可以任意转载, 恳请保留我作为原作者, 谢谢.
+   
 
 """
 import pymysql
@@ -742,12 +742,12 @@ class UsingMysql(object):
 
 """
 
-    作者: 小肥巴巴
-    简书: https://www.jianshu.com/u/db796a501972
-    邮箱: imyunshi@163.com
-    github: https://github.com/xiaofeipapa/python_example
+     
+    
+    
+    
 
-    您可以任意转载, 恳请保留我作为原作者, 谢谢.
+   
 
 """
 from pymysql_lib_1 import UsingMysql
@@ -778,12 +778,12 @@ pip3 install DBUtils
 
 """
 
-    作者: 小肥巴巴
-    简书: https://www.jianshu.com/u/db796a501972
-    邮箱: imyunshi@163.com
-    github: https://github.com/xiaofeipapa/python_example
+     
+    
+    
+    
 
-    您可以任意转载, 恳请保留我作为原作者, 谢谢.
+   
 
 """
 import pymysql
@@ -974,12 +974,12 @@ g_pool_connection = DMysqlPoolConn(db_config)
 
 """
 
-    作者: 小肥巴巴
-    简书: https://www.jianshu.com/u/db796a501972
-    邮箱: imyunshi@163.com
-    github: https://github.com/xiaofeipapa/python_example
+     
+    
+    
+    
 
-    您可以任意转载, 恳请保留我作为原作者, 谢谢.
+   
 
 """
 
@@ -1065,12 +1065,12 @@ class UsingAlchemy(object):
 
 """
 
-    作者: 小肥巴巴
-    简书: https://www.jianshu.com/u/db796a501972
-    邮箱: imyunshi@163.com
-    github: https://github.com/xiaofeipapa/python_example
+     
+    
+    
+    
 
-    您可以任意转载, 恳请保留我作为原作者, 谢谢.
+   
 
 """
 
@@ -1116,12 +1116,12 @@ if __name__ == '__main__':
 
 """
 
-    作者: 小肥巴巴
-    简书: https://www.jianshu.com/u/db796a501972
-    邮箱: imyunshi@163.com
-    github: https://github.com/xiaofeipapa/python_example
+     
+    
+    
+    
 
-    您可以任意转载, 恳请保留我作为原作者, 谢谢.
+   
 
 """
 
@@ -1199,12 +1199,12 @@ if __name__ == '__main__':
 
 """
 
-    作者: 小肥巴巴
-    简书: https://www.jianshu.com/u/db796a501972
-    邮箱: imyunshi@163.com
-    github: https://github.com/xiaofeipapa/python_example
+     
+    
+    
+    
 
-    您可以任意转载, 恳请保留我作为原作者, 谢谢.
+   
 
 """
 

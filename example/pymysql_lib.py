@@ -1,16 +1,6 @@
 #! /usr/bin/python
 # -*- coding: UTF-8 -*-
 
-"""
-
-    作者: 小肥巴巴
-    简书: https://www.jianshu.com/u/db796a501972
-    邮箱: imyunshi@163.com
-    github: https://github.com/xiaofeipapa/python_example
-
-    您可以任意转载, 恳请保留我作为原作者, 谢谢.
-
-"""
 import pymysql
 from timeit import default_timer
 from DBUtils.PooledDB import PooledDB
@@ -59,11 +49,9 @@ class DMysqlConfig:
 
 # ---- 用连接池来返回数据库连接
 class DMysqlPoolConn:
-
     __pool = None
 
     def __init__(self, config):
-
         if not self.__pool:
             self.__class__.__pool = PooledDB(creator=pymysql,
                                              maxconnections=config.maxConnection,
@@ -93,7 +81,6 @@ user = 'mysql_test'
 password = 'mysql_test'
 
 db_config = DMysqlConfig(host, db, user, password, port)
-
 
 g_pool_connection = DMysqlPoolConn(db_config)
 
